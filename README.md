@@ -123,10 +123,13 @@ SAIM is released under the [MIT License](./LICENSE).
 ## Citation
 
 ```
-@article{qi2022exploring,
+@inproceedings{qi2023exploring,
   title={Exploring Stochastic Autoregressive Image Modeling for Visual Representation},
   author={Qi, Yu and Yang, Fan and Zhu, Yousong and Liu, Yufei and Wu, Liwei and Zhao, Rui and Li, Wei},
-  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={2},
+  pages={2074--2081},
   year={2023}
 }
 ```
